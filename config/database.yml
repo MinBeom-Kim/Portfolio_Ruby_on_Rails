@@ -13,21 +13,21 @@ development:
    adapter: mysql
    database: library_development
    username: root
-   password: [mbk]
+   password: [minbeom607]
    host: localhost
 	
 test:
    adapter: mysql
    database: library_test
    username: root
-   password: [mbk]
+   password: [minbeom607]
    host: localhost
    
 production:
    adapter: mysql
    database: library_production
    username: root
-   password: [mbk]
+   password: [minbeom607]
    host: localhost
 
 #development:
